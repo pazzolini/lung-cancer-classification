@@ -1,10 +1,17 @@
+# Lung Cancer Classification using Computerized Tomography (CT) Data
+
+### Laboratory of Artificial Intelligence and Data Science
+### Project 1 - 2024 / 2025
+
+## Introduction
+
+This project was developed as part of the Laboratory of Artificial Intelligence and Data Science (Lab AI & DC) course. The course's primary objective is to provide students with practical experience in software development methodologies, artificial intelligence (AI), data science (DC), teamwork, and communication. Students are encouraged to apply their knowledge from prior coursework, along with research methodologies, to solve a specific problem.
+
+In this first project, the focus was on **Lung Cancer Classification using Computerized Tomography (CT)** data. The task involved classifying CT data from the human torso to aid in lung cancer diagnosis. The project incorporated various stages, including data understanding, preprocessing, feature selection, modeling, and evaluation, with the goal of developing an accurate and reliable classification system.
+
 ## Notebook
 
 - `NotebookFinal.html`: Provides a complete description of the assignment's process, including code, results, and analysis. 
-
-## Video
-
-The video presentation of the notebook can be accessed at this link: https://youtu.be/HIPcP4Y_uX8.
 
 ## Other Files and Folders
 
@@ -14,9 +21,8 @@ The video presentation of the notebook can be accessed at this link: https://you
 - `Selected Features/`: Contains four CSV files with information on features selected by Random Forest and Lasso.
 - `Results/`: Includes the 17 CSV result files referenced in the "Modeling" and "Evaluation" sections of the notebook.
 - Ethical and Legal considerations document.
-- Group evaluation.
 
----
+---------------------------------------------------------------------------------------
 
 @ Alejandro Gonçalves, Francisca Mihalache, João Sousa, Vítor Ferreira | LABIACD #4 TP1
 

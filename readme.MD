@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This project was developed as part of the Laboratory of Artificial Intelligence and Data Science (Lab AI & DS) course. The course's primary objective is to provide students with practical experience in software development methodologies, artificial intelligence (AI), data science (DC), teamwork, and communication. Students are encouraged to apply their knowledge from prior coursework, along with research methodologies, to solve a specific problem.
+This project was developed as part of the Laboratory of Artificial Intelligence and Data Science (Lab AI & DS) course. The course's primary objective is to provide students with practical experience in software development methodologies, artificial intelligence (AI), data science (DS), teamwork, and communication. Students are encouraged to apply their knowledge from prior coursework, along with research methodologies, to solve a specific problem.
 
 In this first project, the focus was on **Lung Cancer Classification using Computerized Tomography (CT)** data. The task involved classifying CT data from the human torso to aid in lung cancer diagnosis. The project incorporated various stages, including data understanding, preprocessing, feature selection, modeling, and evaluation, with the goal of developing an accurate and reliable classification system.
 
@@ -24,6 +24,6 @@ In this first project, the focus was on **Lung Cancer Classification using Compu
 
 ---------------------------------------------------------------------------------------
 
-@ Alejandro Gonçalves, Francisca Mihalache, João Sousa, Vítor Ferreira | LABIACD #4 TP1
+@Alejandro-131004 (Alejandro Gonçalves), @Mihalachee (Francisca Mihalache), @Jony700 (João Sousa), @pazzolini (Vítor Ferreira). 
 
 

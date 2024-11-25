@@ -11,7 +11,7 @@ In this first project, the focus was on **Lung Cancer Classification using Compu
 
 ## Notebook
 
-- `NotebookFinal.html`: Provides a complete description of the assignment's process, including code, results, and analysis. 
+- `FinalNotebook`: Provides a complete description of the assignment's process, including code, results, and analysis. 
 
 ## Other Files and Folders
 
